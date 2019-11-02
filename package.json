@@ -1,7 +1,8 @@
 {
     "name": "fabel",
-    "version": "0.1.0",
-    "private": true,
+    "version": "0.2.0",
+    "private": false,
+    "homepage": "https://jaenalleegenmao.github.io/fabel/",
     "dependencies": {
         "@babel/core": "7.6.0",
         "@babel/plugin-syntax-jsx": "^7.2.0",
