@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fabel/static/css/main.c60c2745.chunk.css",
+    "main.js": "/fabel/static/js/main.e5928f29.chunk.js",
+    "main.js.map": "/fabel/static/js/main.e5928f29.chunk.js.map",
+    "runtime-main.js": "/fabel/static/js/runtime-main.ad1e7dab.js",
+    "runtime-main.js.map": "/fabel/static/js/runtime-main.ad1e7dab.js.map",
+    "static/css/2.812644bd.chunk.css": "/fabel/static/css/2.812644bd.chunk.css",
+    "static/js/2.42ae1d2f.chunk.js": "/fabel/static/js/2.42ae1d2f.chunk.js",
+    "static/js/2.42ae1d2f.chunk.js.map": "/fabel/static/js/2.42ae1d2f.chunk.js.map",
+    "index.html": "/fabel/index.html",
+    "precache-manifest.b5a4a7c395a1699c15d11fcf2136f1a7.js": "/fabel/precache-manifest.b5a4a7c395a1699c15d11fcf2136f1a7.js",
+    "service-worker.js": "/fabel/service-worker.js",
+    "static/css/2.812644bd.chunk.css.map": "/fabel/static/css/2.812644bd.chunk.css.map",
+    "static/css/main.c60c2745.chunk.css.map": "/fabel/static/css/main.c60c2745.chunk.css.map",
+    "static/media/semantic.min.css": "/fabel/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad1e7dab.js",
+    "static/css/2.812644bd.chunk.css",
+    "static/js/2.42ae1d2f.chunk.js",
+    "static/css/main.c60c2745.chunk.css",
+    "static/js/main.e5928f29.chunk.js"
+  ]
+}
