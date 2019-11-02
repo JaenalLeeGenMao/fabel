@@ -1,0 +1,62 @@
+.pc__container {
+    display: block;
+    padding: 1.28rem 2.1rem 1.28rem 1.28rem;
+    margin: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.125rem 0.156rem 0.1rem #cecece;
+    transition: 200ms ease-out;
+}
+
+.pc__container:hover {
+    cursor: pointer;
+    box-shadow: 0 0.25rem 0.31rem 0.1rem #aaaaaa;
+}
+
+.pc__header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pc__footer {
+    text-align: right;
+}
+
+.pc__name {
+    display: inline;
+    font-size: 1.6rem;
+    font-weight: 700;
+    line-height: 2.8rem;
+    color: #000000;
+}
+
+.pc__price {
+    color: #ff9800;
+}
+
+.pc__desc {
+    height: auto;
+}
+
+.pc__furniture_styles {
+    color: #1e75cb;
+}
+
+.pc__delivery_days {
+    color: #1e75cb;
+    font-weight: bold;
+    display: inline-block;
+    text-decoration: underline;
+}
+
+@media only screen and (min-width: 600px) {
+    .pc__container {
+        display: inline-block;
+        width: 47.5vw;
+        margin: 1.5rem 0 0 1.5rem;
+    }
+
+    .pc__desc {
+        height: 5.714em;
+        overflow: hidden;
+    }
+}
